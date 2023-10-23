@@ -7,3 +7,4 @@ Test 6: Some more changes in git.path
 Test 7: The JSON in git.path was blank, edited it, let's see if it works now.
 Test 8: Git status works in Windows env but not in WSL, idk the reason.
 Test 9: Many
+Test 10: X1
