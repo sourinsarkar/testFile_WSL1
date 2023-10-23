@@ -2,3 +2,4 @@ Test 1: Starting and initializing this file right from WSL.
 Test 2: Editied on vscode and will be pushing changes from wsl terminal right on vscode.
 Test 3: Using WSL after updating Git.
 Test 4: Edited the JSON in git.path, let's see what happens.
+Test 5: 
